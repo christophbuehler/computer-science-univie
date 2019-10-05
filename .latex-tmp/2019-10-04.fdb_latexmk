@@ -1,0 +1,16 @@
+# Fdb version 3
+["pdflatex"] 1570301516 "c:/computer-science-univie/2019-10-04.tex" ".latex-tmp/2019-10-04.pdf" "2019-10-04" 1570301611
+  "./.latex-tmp/2019-10-04.aux" 1570301516 8 a94a2480d3289e625eea47cd1b285758 ""
+  ".latex-tmp/2019-10-04.aux" 1570301516 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
+  "2019-10-04.tex" 1570301611 75 c80db4f7c95291b45a132485ac7700cf ""
+  "C:/Users/Chris/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1570300128 4245168 a1458bcff1586c22ec188d14a154aaa6 ""
+  "C:/Users/Chris/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1570301515 80453 73224248f0a73acd005b5611945eaaa6 ""
+  "C:/Users/Chris/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
+  "C:/Users/Chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
+  "C:/Users/Chris/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/article.cls" 1544474704 19933 3097d1b31d3c45dc957096f554529032 ""
+  "C:/Users/Chris/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/size12.clo" 1544474702 8305 6a682ae291edd56e2d7accbf95eca451 ""
+  "c:/computer-science-univie/2019-10-04.tex" 1570301611 75 c80db4f7c95291b45a132485ac7700cf ""
+  (generated)
+  ".latex-tmp/2019-10-04.aux"
+  ".latex-tmp/2019-10-04.log"
+  ".latex-tmp/2019-10-04.pdf"

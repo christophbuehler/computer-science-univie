@@ -1,0 +1,17 @@
+PWD c:\computer-science-univie
+INPUT C:\Users\Chris\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\computer-science-univie\2019-10-04.tex
+OUTPUT c:\computer-science-univie\.latex-tmp\2019-10-04.log
+INPUT C:\Users\Chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Users\Chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Users\Chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo
+INPUT C:\Users\Chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo
+INPUT C:\Users\Chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT c:\computer-science-univie\.\.latex-tmp\2019-10-04.aux
+INPUT c:\computer-science-univie\.\.latex-tmp\2019-10-04.aux
+OUTPUT c:\computer-science-univie\.latex-tmp\2019-10-04.aux
+OUTPUT c:\computer-science-univie\.latex-tmp\2019-10-04.pdf
+INPUT C:\Users\Chris\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT c:\computer-science-univie\.\.latex-tmp\2019-10-04.aux
+INPUT C:\Users\Chris\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\Chris\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
