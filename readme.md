@@ -1,5 +1,5 @@
 # Computer Science at the University of Vienna
-This repository contains learning materials for cs lectures at univie.
+Tools for easy note taking and coding during lectures with VSCode.
 
 ## Configure on Windows
 
