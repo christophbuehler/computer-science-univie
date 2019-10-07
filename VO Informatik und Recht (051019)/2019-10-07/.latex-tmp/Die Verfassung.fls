@@ -1,0 +1,27 @@
+PWD c:\computer-science-univie\VO Informatik und Recht (051019)\2019-10-07
+INPUT C:\Users\Chris\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\computer-science-univie\VO Informatik und Recht (051019)\2019-10-07\Die Verfassung.tex
+OUTPUT c:\computer-science-univie\VO Informatik und Recht (051019)\2019-10-07\.latex-tmp\Die Verfassung.log
+INPUT C:\Users\Chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Users\Chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Users\Chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo
+INPUT C:\Users\Chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo
+INPUT C:\Users\Chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT c:\computer-science-univie\VO Informatik und Recht (051019)\2019-10-07\.\.latex-tmp\Die Verfassung.aux
+INPUT c:\computer-science-univie\VO Informatik und Recht (051019)\2019-10-07\.\.latex-tmp\Die Verfassung.aux
+OUTPUT c:\computer-science-univie\VO Informatik und Recht (051019)\2019-10-07\.latex-tmp\Die Verfassung.aux
+INPUT C:\Users\Chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Users\Chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\Chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd
+INPUT C:\Users\Chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd
+INPUT C:\Users\Chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\Chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
+OUTPUT c:\computer-science-univie\VO Informatik und Recht (051019)\2019-10-07\.latex-tmp\Die Verfassung.pdf
+INPUT C:\Users\Chris\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT c:\computer-science-univie\VO Informatik und Recht (051019)\2019-10-07\.\.latex-tmp\Die Verfassung.aux
+INPUT C:\Users\Chris\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\Chris\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\Chris\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\Chris\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\Chris\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\Chris\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
