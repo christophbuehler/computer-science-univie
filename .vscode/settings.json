@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "string": "cpp",
+<<<<<<< HEAD
         "new": "cpp",
         "iostream": "cpp",
         "random": "cpp",
@@ -46,6 +47,9 @@
         "stdexcept": "cpp",
         "streambuf": "cpp",
         "typeinfo": "cpp"
+=======
+        "ostream": "cpp"
+>>>>>>> 859c7ed3b36469e49c0104da1c9fd7a9d480a620
     },
     "latex-workshop.latex.outDir": "./.latex-tmp",
     "C_Cpp.loggingLevel": "Debug",

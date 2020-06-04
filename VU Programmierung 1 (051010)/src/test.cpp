@@ -1,10 +1,17 @@
-#include <string>
 #include <iostream>
-#include "person.hpp"
 
 using namespace std;
 
-int main() {
-    
-    return 0;
+int main()
+{
+  constexpr double a{412};
+  const double b{10};
+
+  cout << a/b << a/b*2;
+  cout << a/b/b;
+  cout << static_cast<int>(a)/b/b;
+  cout << static_cast<int>(a/b)/b;
+  cout << static_cast<int>(a/b/b);
+
+  return 0;
 }
