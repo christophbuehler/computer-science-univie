@@ -20,5 +20,21 @@
             "line": 2,
             "message": 3
         }
-    }
+    },
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "g++.exe build active file",
+            "command": "C:\\Strawberry\\c\\bin\\g++.exe",
+            "args": [
+                "-g",
+                "${file}",
+                "-o",
+                "${fileDirname}\\${fileBasenameNoExtension}.exe"
+            ],
+            "options": {
+                "cwd": "C:\\Strawberry\\c\\bin"
+            }
+        }
+    ]
 }
